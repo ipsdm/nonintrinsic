@@ -1,0 +1,26 @@
+# House projects
+
+- Fix front room door/add-lock
+- Common living room library 
+- Garden pipe network
+- Less rickety bike shed
+- Reverse Osmosis system
+- Shedroom window sill tiling
+- Fix entrance room tiling
+- Fix front wind door 
+- Repair breaking stairs
+- Sand kitchen table to wood
+- Fix toolzone floor level
+- Build hidden hallway chair
+- Replace hot water check valve by dryer above door
+- Replace cold water valve for washing machine
+- Strip paint from bathroom tiles
+- Sand/finish craft room window sill
+- Whole house humidification system
+- Compost zone, front lower soil removal hatch
+- Reinforce driveway storage bins with 2by2 inner wood frame
+- Shelves in the gaspipe area in the crafts room
+- Kitchen breakfast window
+- Paint kitchen cupboards white
+- Plaster/paint first left bedroom
+- Bathroom subfloor replacement
