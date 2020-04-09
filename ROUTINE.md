@@ -1,23 +1,37 @@
 
 # Routine
 
-The daily routine is roughly as follows; subject to change/shifting/modification.
+The daily routine is roughly as follows; subject to change/shifting/modification upon agreement 
+of all non-intrinsic members participating. All changes to be made in the `Addendum` section. 
 
-7:00am            - morning gong is smashed
+8:00am            - morning gong is smashed
 
-7am    -> 8:30am  - wakeup / communal breakfast / potential dream discussions
+9am    -> 9:30am  - wakeup / communal breakfast / potential dream discussions
 
-8:30am -> 9am     - day plan creation startup meeting 
+9:30am -> 10am    - day plan creation startup meeting 
 
-9am    -> noon    - morning plan execution
+10am    -> 1pm    - morning plan execution
 
-noon   -> 1pm     - communal lunch  
+1pm   -> 2pm      - communal lunch  
 
-1pm    -> 5pm     - afternoon plan execution
+2pm    -> 6pm     - afternoon plan execution
 
-5pm    -> 6pm     - communal dinner
+6pm    -> 7pm     - communal dinner
 
-6pm    -> 6:15pm  - discussion and reflection on the days accomplishments
+7pm    -> 7:15pm  - discussion and reflection on the days accomplishments
 
-6:15   -> xx:xx   - off time
+7:15   -> xx:xx   - off time
 
+## Daily Activities Intention
+
+All daily activities should be planned with the intention for the balance of
+being primarily physical for roughly half the time and primarily mental for the
+remaining half. 
+
+## Addendums
+
+```
+Change:
+Applicable Date Range:
+Agreed Upon By:
+```
