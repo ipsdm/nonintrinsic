@@ -1,4 +1,8 @@
-# House projects
+# Non-Physical Projects
+
+- Exportable format instruction manual for the house (including recipes)
+
+# Physical Projects
 
 General
 - Fix front room door/add-lock
@@ -16,6 +20,8 @@ General
 - Plaster/paint first left bedroom
 - First floor window outlet for AC
 - 3 way switch stair-lights 
+- 3 way center living room 
+- 3 way front living room 
 - 3 way switch back room
 - Caulk:
   - rotted wood in Bedroom One window
