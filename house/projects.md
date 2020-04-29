@@ -19,6 +19,10 @@ General
 - 3 way switch back room
 - Caulk:
   - rotted wood in Bedroom One window
+- stairwell triangular space to bedroom 3
+- install lower cupboard lights (cupboard beside stove)
+- fix toaster oven tick halting
+- shedroom repaint/mud
 
 Bathroom
 - Strip paint from bathroom tiles
@@ -51,4 +55,6 @@ Outdoor
 - Less rickety bike shed
 - Fix front wind door 
 - Re-level all the penny pavers, slant away from house 
+- Penny paver area for recycling bin in the easement
+- level/plant something (strawberries?) in the easement 
 
